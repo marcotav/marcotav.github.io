@@ -11,7 +11,7 @@ from keras.applications.inception_v3 import InceptionV3
 ```
 Note that the size of the image needs and the number of input nodes must match. For Inception V3, images need to be 299 pixels by 299 pixels so depending on the size of your input images, you may need to resize them.
 ```
-img = image.load_img("bay.jpg", target_size=(224, 224))
+img = image.load_img("lionNN.jpg", target_size=(224, 224))
 ```
 The next step is to convert `img` into a `numpy` array and since Keras expects a list of images we must add a forth component:
 
