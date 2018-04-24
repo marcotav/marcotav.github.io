@@ -11,7 +11,7 @@ from keras.applications.inception_v3 import InceptionV3
 ```
 Note that the size of the image needs and the number of input nodes must match. For Inception V3, images need to be 299 pixels by 299 pixels so depending on the size of your input images, you may need to resize them.
 ```
-img = image.load_img("lionNN.jpg", target_size=(224, 224))
+img = image.load_img("lion.jpg", target_size=(299, 299))
 ```
 The next step is to convert `img` into a `numpy` array and since Keras expects a list of images we must add a forth component:
 
@@ -19,12 +19,6 @@ The next step is to convert `img` into a `numpy` array and since Keras expects a
 x = image.img_to_array(img)
 x = np.expand_dims(x, axis=0)
 ```
-
-<br>
-<p align="center">
-  <img src="lionNN.jpg",width="150" height="200">
-</p>
-<br>
 
 Pixel values vary from zero to 25 but with neural nets, smaller numbers perform best. We therefore must rescale the data before inputing it. More specifically, we must normalize to the range of the images used by the trained network. We do this using `preprocess_input`:
 ```
