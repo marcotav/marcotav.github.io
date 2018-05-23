@@ -1,5 +1,5 @@
 
-
+<a id = 'ci'></a>
 ## Contact Information
 
 Feel free to contact me:
@@ -26,9 +26,7 @@ Feel free to contact me:
 
 <p align="center">
   <a href="#nb"> Notebooks and descriptions </a> •
-  <a href="#ci"> Contact Information </a>  •
-  <a href="#nd"> Notebooks and descriptions </a> •
-  <a href="#ci"> Contact Information </a> 
+  <a href="#ci"> Contact Information </a>  
 </p>
 
 
