@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This page describes, with some detail, the data science projects I have recently completed. 
+This page describes, in some detail, the data science projects I have recently completed. 
 
 <a id = 'ci'></a>
 ## Contact Information
