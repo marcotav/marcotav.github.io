@@ -1,12 +1,13 @@
 # Data Science Projects
 
 This page describes, in some detail, the data science projects I have recently completed.
-
+<br>
 <p align="center">
 <img src="https://github.com/marcotav/marcotav.github.io/blob/master/test/iStock-585174266.jpg" width="400"/>   
 </p>
-
+<br>
 <a id = 'ci'></a>
+
 ## Contact Information
 
 Feel free to contact me:
