@@ -1,6 +1,7 @@
 # Data Science Projects
 
 This page describes, in some detail, the data science projects I have recently completed.
+
 <br>
 <p align="center">
 <img src="test/iStock-585174266.jpg" width="400"/>   
