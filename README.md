@@ -19,7 +19,7 @@ Feel free to contact me:
 
 
 
-
+## Topics
 
 <p align="center">
   <a href="#nlp"> Natural Language Processing </a> •
@@ -31,7 +31,7 @@ Feel free to contact me:
 
 
 <a id = 'nlp'></a>
-## Natural Language Processing
+### Natural Language Processing
 
 > Natural-language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data. Challenges in natural-language processing frequently involve speech recognition, natural-language understanding, and natural-language generation.
 
@@ -51,7 +51,7 @@ Feel free to contact me:
 
 
 <a id = 'nd'></a>
-## Notebooks and descriptions
+### Notebooks and descriptions
 
 
 | Notebook | Brief Description |
@@ -66,7 +66,7 @@ Feel free to contact me:
 
 
 <a id = 'class'></a>
-## Machine Learning Classification Projects
+### Machine Learning Classification Projects
 
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/BeautifulSoup-4.6.0-blue.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
@@ -101,7 +101,7 @@ Feel free to contact me:
 </p> 
 
 <a id = 'dl'></a>
-## Deep Learning Projects
+### Deep Learning Projects
 
 ![Image title](https://img.shields.io/badge/painter--id-v1.0-lightgrey.svg) ![image title](https://img.shields.io/badge/work-in%20progress-blue.svg) ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/keras-v2.1.5-red.svg) ![Image title](https://img.shields.io/badge/TensorFlow-v1.7.0-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -144,7 +144,7 @@ Feel free to contact me:
 <br>
 
 <a id = 'reg'></a>
-## Machine Learning Regression Models
+### Machine Learning Regression Models
 ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/seaborn-v0.8.1-yellow.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg)
 
 <br/>
@@ -166,7 +166,7 @@ Feel free to contact me:
 | [conjoint-analysis](http://nbviewer.jupyter.org/github/marcotav/machine-learning-regression-models/blob/master/conjoint-analysis/notebooks/conjoint-analysis.ipynb)| Conjoint analysis is a technique that allows researchers to predict consumers' choice share. The analysis can be programmed using standard question types, such as the MaxDiff variation of the Matrix Table question. Instead of directly asking the survey respondents which attributes they find most relevant, conjoint analysis asks respondents to evaluate potential product profiles which include multiple product features. There are several ways to show to respondents the product profiles. In Choice-Based Conjoint (CBC) respondents are shown multiple product conceptsn and asked which option they would choose. By varying the features shown to the respondents and observing their responses to the product profiles, one can statistically deduce the most desired product features and which attributes have the most impact on choice. The end result is a set of preference scores or *part-worth utilities* for each level of each attribute. In this notebook I show how to use Python to calculate the utilities. The notebook is heavily based on [this course](https://www.lynda.com/R-tutorials/Data-Science-Marketing/533306-2.html) and [this book](https://www.amazon.com/Marketing-Data-Science-Techniques-Predictive/dp/0133886557).|
 
 <a id = 'unsup'></a>
-## Unsupervised Learning
+### Unsupervised Learning
 
 ![image title](https://img.shields.io/badge/python-v3.6-green.svg) ![image title](https://img.shields.io/badge/ntlk-v3.2.5-yellow.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/BeautifulSoup-4.6.0-blue.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
