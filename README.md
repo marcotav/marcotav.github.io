@@ -1,5 +1,16 @@
 
 
+## Contact Information
+
+Feel free to contact me:
+
+* Email: [marcotav65@gmail.com](mailto:marcotav65@gmail.com)
+* GitHub: [marcotav](https://github.com/marcotav)
+* LinkedIn: [marco-tavora](https://www.linkedin.com/in/marco-tavora)
+* Website: [marcotavora.me](http://www.marcotavora.me)
+
+
+
 ## Natural Language Processing
 
 > Natural-language processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data. Challenges in natural-language processing frequently involve speech recognition, natural-language understanding, and natural-language generation.
@@ -33,15 +44,6 @@
 | [alphabet-human-thought/meaning-of-sentences](http://nbviewer.jupyter.org/github/marcotav/natural-language-processing/blob/master/alphabet-human-thought/meaning-NLU-logic/notebooks/meaning-of-sentences.ipynb) | In this notebook, it will be shown that using logic formalisms one can find more generic translation mechanisms (in progress)  |
 | [alphabet-human-thought/sentence-structure](http://nbviewer.jupyter.org/github/marcotav/natural-language-processing/blob/master/alphabet-human-thought/sentence-structure/notebooks/sentence-structure.ipynb) | We will show how to develop formal models for patterns in sequence of words using grammars and parsers (in progress)|
 
-<a id = 'ci'></a>
-## Contact Information
-
-Feel free to contact me:
-
-* Email: [marcotav65@gmail.com](mailto:marcotav65@gmail.com)
-* GitHub: [marcotav](https://github.com/marcotav)
-* LinkedIn: [marco-tavora](https://www.linkedin.com/in/marco-tavora)
-* Website: [marcotavora.me](http://www.marcotavora.me)
 
 
 
