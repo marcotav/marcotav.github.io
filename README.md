@@ -14,6 +14,14 @@ Feel free to contact me:
 
 
 <p align="center">
+<img src="https://github.com/marcotav/natural-language-processing/blob/master/images/linguistics-and-reality-640x300.png" width="350"/>   
+</p>
+
+
+
+
+
+<p align="center">
   <a href="#nlp"> Natural Language Processing </a> •
   <a href="#nlp"> Machine Learning Classification Projects </a> •
   <a href="#dl"> Deep Learning </a> •
