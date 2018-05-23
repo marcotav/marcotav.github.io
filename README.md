@@ -14,7 +14,7 @@ Feel free to contact me:
 
 
 <p align="center">
-<img src="https://github.com/marcotav/natural-language-processing/blob/master/images/linguistics-and-reality-640x300.png" width="350"/>   
+<img src="https://github.com/marcotav/marcotav.github.io/blob/master/test/iStock-585174266.jpg" width="500"/>   
 </p>
 
 
