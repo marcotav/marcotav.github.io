@@ -1,6 +1,10 @@
 # Data Science Projects
 
-This page describes, in some detail, the data science projects I have recently completed. 
+This page describes, in some detail, the data science projects I have recently completed.
+
+<p align="center">
+<img src="https://github.com/marcotav/marcotav.github.io/blob/master/test/iStock-585174266.jpg" width="400"/>   
+</p>
 
 <a id = 'ci'></a>
 ## Contact Information
@@ -13,9 +17,7 @@ Feel free to contact me:
 * Website: [marcotavora.me](http://www.marcotavora.me)
 
 
-<p align="center">
-<img src="https://github.com/marcotav/marcotav.github.io/blob/master/test/iStock-585174266.jpg" width="500"/>   
-</p>
+
 
 
 
