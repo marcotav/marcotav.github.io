@@ -5,13 +5,13 @@
 
 <br/>
 <p align="center">
-  <img src="images/keras.jpg" width="100">
+  <img src="https://github.com/marcotav/deep-learning/blob/master/images/keras.jpg" width="100">
 </p>
 
 
 <br/>
 <p align="center">
-  <img src="/images/tf.png" width="100">
+  <img src="https://github.com/marcotav/deep-learning/blob/master/images/tf.png" width="100">
 </p>
 
 <p align="center">
